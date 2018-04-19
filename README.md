@@ -1,8 +1,9 @@
-# ESTRO2018
----
-Smooth animations of the probabilistic analog to worst case dose distribution
+## ESTRO 37 - Animations from the ePoster "Smooth animations of the probabilistic analog to worst case dose distribution"
 
-## Animations from the ePoster
+
+N. Wahl, P. Hennig, H.-P. Wieser, M. Bangert
+
+
 
 ### Non-robust paraspinal plan vs. robust plan
 
